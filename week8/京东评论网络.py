@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from node2vec import Node2Vec
 
-plt.rcParams['font.family'] = ['sans-serif']
 plt.rcParams['font.sans-serif'] = ['SimHei']
 warnings.filterwarnings("ignore", category=UserWarning)
 
