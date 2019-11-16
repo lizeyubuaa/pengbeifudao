@@ -8,7 +8,6 @@ class Fruit:
     pass
 
 
-# 体现了继承的思想
 class Apple(Fruit):
     pass
 
